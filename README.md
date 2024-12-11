@@ -2,6 +2,14 @@
 
 ## ⚙ Funcionalidades
 
+- Gerenciamento completo de tarefas (CRUD): Criar, listar, atualizar e excluir tarefas.
+- Validação de dados de entrada com Zod.
+- Persistência de dados com MongoDB usando Mongoose.
+- Configuração modular e escalável para rotas, controladores e modelos.
+
+
+## ⚙ Funcionalidades Extras
+
 - *Editar tarefas*: Permite alterar o texto de uma tarefa existente.
 - *Modo escuro*: Suporte a tema escuro para melhor experiência do usuário.
 
